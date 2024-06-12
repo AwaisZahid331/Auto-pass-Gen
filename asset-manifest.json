@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Auto-pass-Gen/static/css/main.d752fd84.css",
+    "main.js": "/Auto-pass-Gen/static/js/main.77133016.js",
+    "static/js/453.65be2c5f.chunk.js": "/Auto-pass-Gen/static/js/453.65be2c5f.chunk.js",
+    "index.html": "/Auto-pass-Gen/index.html",
+    "main.d752fd84.css.map": "/Auto-pass-Gen/static/css/main.d752fd84.css.map",
+    "main.77133016.js.map": "/Auto-pass-Gen/static/js/main.77133016.js.map",
+    "453.65be2c5f.chunk.js.map": "/Auto-pass-Gen/static/js/453.65be2c5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d752fd84.css",
+    "static/js/main.77133016.js"
+  ]
+}
